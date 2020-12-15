@@ -1,0 +1,2 @@
+# TareaIndustriaInteligente
+Ejercicio 3
